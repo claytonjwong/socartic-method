@@ -19,6 +19,13 @@
 * Produce a mindset that is useful all the time
 
 ## 1. The Socratic Problem
+
+* **Question:** What is the Socractic Problem?
+
+* **Answer:** No one knows who Socrates is.  When Socrates is referred to, we don't know if it is the literal man himself or an aggregation of Plato's imagination and memory of Socrates.
+
+The end-goal is to understand a style of thought, ie. the Socratic method.  So it's irrelevant to strictly identify who Socrates is in each context.  Instead we can focus on how Socrates thought.
+
 ## 2. Method vs. Doctrine
 ## 3. Elements of the Method
 ## 4. The Socratic Function
