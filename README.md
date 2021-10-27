@@ -26,7 +26,19 @@
 
 The end-goal is to understand a style of thought, ie. the Socratic method.  So it's irrelevant to strictly identify who Socrates is in each context.  Instead we can focus on how Socrates thought.
 
+
 ## 2. Method vs. Doctrine
+
+* **Question:** What is the purpose of the Socractic method?
+
+* **Answer:** The unexamined life is not livable.  The mind left to itself (intellectus sibi permissus) is automatic, irrational, confused, and error prone.  The Socratic method is a manual, corrective thought process.
+
+#### Plato's two types of teachings:
+
+1. Practical lessons with specific conclusions
+2. The Socratic thinking process
+
+
 ## 3. Elements of the Method
 ## 4. The Socratic Function
 ## 5. Question and Answer
