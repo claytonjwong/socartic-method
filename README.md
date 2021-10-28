@@ -40,6 +40,38 @@ The end-goal is to understand a style of thought, ie. the Socratic method.  So i
 
 
 ## 3. Elements of the Method
+
+* **Question:** What are the elements of the Socractic method?
+
+* **Answer:**
+
+1. Question and answer, open-ended dialogue seeking truth
+2. Consistency via counter-examples to previous thoughts
+3. Identify the underlying principles behind the thoughts
+4. Common, concrete examples to illustrate ideas via imagination and analogy
+5. Socrates does *not* claim expertise, he confesses his own ignorance
+
+#### Oversimplified Socratic method:
+
+* Ask questions about a claim and look for inconsistent answers
+  * What does the claim mean?
+  * What else does the claim holder believe?
+* Show with follow up questions that the initial claim is contradicted or unsatisfactory
+  * Artful denial does *not* sound like an argument
+* The initial claim is then modified, and we start over again seeking truth
+
+#### Socratic View
+
+> In the natural process of growth in the human mind, belief does not follow proof, but springs up apart from and independent of it;  an immature intelligence believes first, and proves (if indeed it ever seeks proof) afterwards.
+>
+[-George Grote](https://en.wikipedia.org/wiki/George_Grote)
+
+Denying what someone claims is an act of friendship.  As a result we may change our mind for the better, or we may improve our understanding of why we think the way we do.  We then become more humble and aware of our own ignorance; less likely to be absolutely certain of our internal "truths" and more open to understanding viewpoints of others.
+
+Good hearted contradictions to hard questions may be best kept to ourselves in the ongoing dialogue within our minds.  It is easier to question others, but more dangerous (Socrates was executed for it).  It is harder to question ourselves and be open to challenging our own beliefs.
+
+We can seek a different kind of comfort.  Rather than concrete answers of absolute certainty, we can be satisfied *without* satisfactory answers while continuing to seek the truth.  The good life is this daily struggle to acquire wisdom.  Claims of truth are easily broken apart; thus we can think and live accordingly.
+
 ## 4. The Socratic Function
 ## 5. Question and Answer
 ## 6. The Elenchus
