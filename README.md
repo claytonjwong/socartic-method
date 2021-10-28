@@ -1,22 +1,26 @@
 # The Socartic Method
 ## A Practitioner's Handbook
 
-> The Socratic method is a style of thought.  It is a help toward intelligence and an antidote to stupidity.
-
 * ISBN-13: 978-0944583319
 * ISBN-10: 0944583318
 
-> This book will also offer some ideas about how Socratic teachings relate to our current cultural and political difficulties.  Let us backtrack a moment.  The ancient Romans built elaborate networks of pipes to deliver water where they wanted it to go.  The networks were a marvel.  But many of the pipes we made of lead, and the water carried the lead along with it.  One school of thought regards this as part of the reason for the decline and fall of Rome: lead poisoning gradually took its toll, impairing the thought and judgement of many Romans, especially at the top.  The theory is much disputed; perhaps it contains no truth.  But as a metaphor it is irresistible.  We have built networks for the delivery of information -- the internet, and especially social media.  These networks, too, are a marvel.  But they also carry a kind of poison with them.  The mind fed from those sources learns to subsist happily on quick reactions, easy certainties, one-liners, and rage.  It craves confirmation and resents contradiction.  Attention spans collapse; imbecility propagates, then seems normal, then is celebrated.  The capacity for rational discourse between people who disagree gradually rots.  I have a good deal more confidence in the lead-pipe theory of the internet, and its effect on our culture, than in the lead-pipe theory of the fall of Rome.
+> The Socratic method is a style of thought.  It is a help toward intelligence and an antidote to stupidity.
+>
+[-Ward Farnsworth](https://en.wikipedia.org/wiki/Ward_Farnsworth)
 
 * How to think: be curious and seek answers to important questions
+* Minimal requirements: common sense and common speech
 * Helpful technique for solving any kind of problem
 * Asking and receiving questions fearlessly
   * Asking hard questions without fear and receiving them without offense
   * Treating challenge and refutation as acts of friendship
 * Loving truth and staying humble when corrected by it
-* Minimal requirements: common sense and common speech
 * Improve everyday activity of making sense out of life and how to live it
 * Produce a mindset that is useful all the time
+
+> This book will also offer some ideas about how Socratic teachings relate to our current cultural and political difficulties.  Let us backtrack a moment.  The ancient Romans built elaborate networks of pipes to deliver water where they wanted it to go.  The networks were a marvel.  But many of the pipes we made of lead, and the water carried the lead along with it.  One school of thought regards this as part of the reason for the decline and fall of Rome: lead poisoning gradually took its toll, impairing the thought and judgement of many Romans, especially at the top.  The theory is much disputed; perhaps it contains no truth.  But as a metaphor it is irresistible.  We have built networks for the delivery of information -- the internet, and especially social media.  These networks, too, are a marvel.  But they also carry a kind of poison with them.  The mind fed from those sources learns to subsist happily on quick reactions, easy certainties, one-liners, and rage.  It craves confirmation and resents contradiction.  Attention spans collapse; imbecility propagates, then seems normal, then is celebrated.  The capacity for rational discourse between people who disagree gradually rots.  I have a good deal more confidence in the lead-pipe theory of the internet, and its effect on our culture, than in the lead-pipe theory of the fall of Rome.
+>
+[-Ward Farnsworth](https://en.wikipedia.org/wiki/Ward_Farnsworth)
 
 ## 1. The Socratic Problem
 
