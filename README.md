@@ -96,11 +96,9 @@ Our mind's process of thinking is an ongoing internal dialogue with ourselves.  
   * The mind's optimal speed is slow and steady (Socrate's is never in a rush)
 
 #### Side Effects
-  * Positive:
-    * More intelligent understanding
-  * Negative:
-    * Lose absolute certainty of being correct
-    * Lose ability to easily know what to think
+  * More intelligent understanding
+  * Lose absolute certainty of being correct
+  * Lose ability to easily know what to think
 
 ## 6. The Elenchus
 ## 7. Consistency
