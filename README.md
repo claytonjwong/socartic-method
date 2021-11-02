@@ -90,7 +90,7 @@ Our mind's process of thinking is an ongoing internal dialogue with ourselves.  
   * Explore hypothetical use cases
   * Refutation/refinement cycle via contradictions
 * We can learn from asking questions (not from declaring beliefs/claims/opinions)
-* Small incremental questions slow down the thought process (automatic -> manual)
+* Small incremental questions slow down the thought process (automatic 👉 manual)
 * Slow down thought process to increase comprehension of the thought/claim/idea
   * Inspect and dissect thoughts like a connoisseur tastes wine or looks at art
   * The mind's optimal speed is slow and steady (Socrate's is never in a rush)
