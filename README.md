@@ -24,30 +24,28 @@
 
 ## 1. The Socratic Problem
 
-* **Question:** What is the Socractic Problem?
+#### What is the Socractic Problem?
 
-* **Answer:** No one knows who Socrates is.  When Socrates is referred to, we don't know if it is the literal man himself or an aggregation of Plato's imagination and memory of Socrates.
+No one knows who Socrates is.  When Socrates is referred to, we don't know if it is the literal man himself or an aggregation of Plato's imagination and memory of Socrates.
 
 The end-goal is to understand a style of thought, ie. the Socratic method.  So it's irrelevant to strictly identify who Socrates is in each context.  Instead we can focus on how Socrates thought.
 
 
 ## 2. Method vs. Doctrine
 
-* **Question:** What is the purpose of the Socractic method?
+#### What is the purpose of the Socractic method?
 
-* **Answer:** The unexamined life is not livable.  The mind left to itself (intellectus sibi permissus) is automatic, irrational, confused, and error prone.  The Socratic method is a manual, corrective thought process.
+The unexamined life is *not* livable.  The mind left to itself (intellectus sibi permissus) is automatic, irrational, confused, and error prone.  The Socratic method is a manual, corrective thought process.
 
 #### Plato's two types of teachings:
 
 1. Practical lessons with specific conclusions
-2. The Socratic thinking process
+2. The Socratic thinking process (the focus of this book)
 
 
 ## 3. Elements of the Method
 
-* **Question:** What are the elements of the Socractic method?
-
-* **Answer:**
+#### What are the elements of the Socractic method?
 
 1. Question and answer, open-ended dialogue seeking truth
 2. Consistency via counter-examples to previous thoughts
@@ -77,7 +75,33 @@ Good hearted contradictions to hard questions may be best kept to ourselves in t
 We can seek a different kind of comfort.  Rather than concrete answers of absolute certainty, we can be satisfied *without* satisfactory answers while continuing to seek the truth.  The good life is this daily struggle to acquire wisdom.  Claims of truth are easily broken apart; thus we can think and live accordingly.
 
 ## 4. The Socratic Function
+
+#### What is the Socractic Function?
+
+Invoking the Socratic method upon ourselves to actively/skeptically question our own beliefs/claims during the daily process of seeking wisdom and truth.
+
+Our mind's process of thinking is an ongoing internal dialogue with ourselves.  Plato displays this in his dialogues as explicit externalization of differing thought processes as metaphorical characters in debate; thus transforming our abstract implicit internalizations into concrete ideas.  This helps self-awareness by portraying our internal Socrates thinking out loud (it separates our sense of self from our thoughts).
+
 ## 5. Question and Answer
+
+#### Why a question/answer dialogue?
+
+* Questions are instruments of creative thought
+  * Explore hypothetical use cases
+  * Refutation/refinement cycle via contradictions
+* We can learn from asking questions (not from declaring beliefs/claims/opinions)
+* Small incremental questions slow down the thought process (automatic -> manual)
+* Slow down thought process to increase comprehension of the thought/claim/idea
+  * Inspect and dissect thoughts like a connoisseur tastes wine or looks at art
+  * The mind's optimal speed is slow and steady (Socrate's is never in a rush)
+
+#### Side Effects
+  * Positive:
+    * More intelligent understanding
+  * Negative:
+    * Lose absolute certainty of being correct
+    * Lose ability to easily know what to think
+
 ## 6. The Elenchus
 ## 7. Consistency
 ## 8. Systole and Diastole
