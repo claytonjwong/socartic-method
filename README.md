@@ -101,6 +101,42 @@ Our mind's process of thinking is an ongoing internal dialogue with ourselves.  
   * Lose ability to easily know what to think
 
 ## 6. The Elenchus
+
+#### What is the Elenchus?
+
+A constant search cycle for truth via testing, refutation, contradiction, shaming, and ridicule.
+
+1. Make a claim/thought/idea
+2. Socrates gets us to agree with another proposition
+3. Socrates shows that other proposition is inconsistent with the original claim/thought/idea
+
+We can then modify original claim/thought/idea and repeat the search cycle.
+
+#### Progressive Shame
+
+Socratic questioning forces concessions which are too embarrassing to deny.  We can feel shameful of our mind's inconsistencies.  This is shame within ourselves; a feeling derived from post-processing previously held incorrect beliefs.  It's a sign of progress.
+
+#### Purgative Consequences
+
+> All I'm saying is what I always say: I myself don't know the facts of these matters, but I've never met anyone, include the people here today, who could disagree with what I'm saying and still avoid making himself ridiculous.
+>
+[-Gorgias (509a)](https://en.wikipedia.org/wiki/Gorgias)
+
+The elenchus transforms false certainty of knowledge into more accurate feelings of ignorance.
+
+* Shows we don't believe what we thought we believed
+* Shows we don't know what we thought we knew
+
+The elenchus can also be used for proof by contradiction, ie. if the opposite of a postulate `P` is impossible, then it follows that `P` is true.
+
+#### The Art of Falsification
+
+We cannot arrive at truth without identifying fallacies.  After detecting and removing falsehood, truth is what remains.  This occurs after a sufficient amount of refutation/contradiction cycle(s) have been performed, and the conflicting claims/thoughts/ideas have been resolved.  This consistency cleanses dissonance and is evidence of this path's virtue towards truth.  Consistency is a paramount test of truth.  It forces us to lightly hold our beliefs ephemerally as we constantly search for additional confirmation or refutation.
+
+#### Self Examination
+
+The elenchus is a trap we cannot set upon ourselves.  Socrates thinks in advance how to create contradictions.  But we cannot sneak up on ourselves the same way a conversational partner can.  Thus, using the elenchus on ourselves is the search process of contradicting our internal beliefs.  This is hard to do since we have blind spots when viewing ourselves.  It requires a humble acceptance that we are constantly incorrect which makes the search for truth plausible since it detaches us from our false views.  We can get used to being wrong and being wrong more often than we think we are.
+
 ## 7. Consistency
 ## 8. Systole and Diastole
 ## 9. Analogies
