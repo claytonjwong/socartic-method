@@ -138,6 +138,21 @@ We cannot arrive at truth without identifying fallacies.  After detecting and re
 The elenchus is a trap we cannot set upon ourselves.  Socrates thinks in advance how to create contradictions.  But we cannot sneak up on ourselves the same way a conversational partner can.  Thus, using the elenchus on ourselves is the search process of contradicting our internal beliefs.  This is hard to do since we have blind spots when viewing ourselves.  It requires a humble acceptance that we are constantly incorrect which makes the search for truth plausible since it detaches us from our false views.  We can get used to being wrong and being wrong more often than we think we are.
 
 ## 7. Consistency
+
+> Renouncing the honors at which the world aims, I desire only to know the truth, and to live as well as I can, and, when I die, to die as well as I can.  And, to the utmost of my power, I exhort all other men to do the same.
+>
+[-Gorgias 526de](https://en.wikipedia.org/wiki/Gorgias)
+
+Internal consistency was paramount to Socrates to live in accordance with nature.  The elenchus allows us to internally debate our own thoughts against each other to acquire internal consistency in the pursuit of truth.
+
+> Socrates is a master of refutation, so it becomes hard to be certain about anything important.  Conclusions that stand unrefuted are provisional; they may *yet* be refuted.  Socrates has a rare combination of beliefs: confidence that truth exists, but humility about whether he knows it.  (Think of how strangely common the reverse has become.)  That is part of why inconsistency matters so much.  It doesn't just show that you are wrong.  It shows that it's possible to *be* wrong.  Philosophy means thinking carefully about whether you believe all that you say and whether it's true.  It is the effort to stay awake.
+>
+[-Ward Farnsworth](https://en.wikipedia.org/wiki/Ward_Farnsworth)
+
+Imagination is necessary for questioning internal beliefs, and internal critique is universally applicable.  This is similar to testing a musical instrument, *not* with an external measuring device, rather with an internal consideration of being in-tune with itself.
+
+Socrates viewed internal inconsistency as a moral sickness to be purged.  We cannot believe two contradicting thoughts without being ignorant (or crazy).  Internal conflict causes practical problems, such as disabling good decision making.
+
 ## 8. Systole and Diastole
 ## 9. Analogies
 ## 10. Socratic Rules for Dialogue
