@@ -127,7 +127,7 @@ The elenchus transforms false certainty of knowledge into more accurate feelings
 * Shows we don't believe what we thought we believed
 * Shows we don't know what we thought we knew
 
-The elenchus can also be used for proof by contradiction, ie. if the opposite of a postulate `P` is impossible, then it follows that `P` is true.
+The elenchus can also be used for [proof by contradiction](https://en.wikipedia.org/wiki/Proof_by_contradiction), ie. if the opposite of a postulate `P` is impossible, then it follows that `P` is true.
 
 #### The Art of Falsification
 
