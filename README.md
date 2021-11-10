@@ -154,6 +154,16 @@ Imagination is necessary for questioning internal beliefs, and internal critique
 Socrates viewed internal inconsistency as a moral sickness to be purged.  We cannot believe two contradicting thoughts without being ignorant (or crazy).  Internal conflict causes practical problems, such as disabling good decision making.
 
 ## 8. Systole and Diastole
+
+The Socratic method uses 2 methods of thought: systole and diastole.
+
+1. Systole
+  * seeing similarities between things which appear different
+  * platonic collection: seeing many as one via categorical "buckets" of similarities
+2. Diastole
+  * seeing differences between things which appear similar
+  * platonic division: seeing one as many via categorical "buckets" of differences
+
 ## 9. Analogies
 ## 10. Socratic Rules for Dialogue
 ## 11. Ignorance
