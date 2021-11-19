@@ -1,4 +1,4 @@
-# The Socartic Method
+# The Socratic Method
 ## A Practitioner's Handbook
 
 * ISBN-13: 978-0944583319
