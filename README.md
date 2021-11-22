@@ -93,7 +93,7 @@ Our mind's process of thinking is an ongoing internal dialogue with ourselves.  
 * Small incremental questions slow down the thought process (automatic 👉 manual)
 * Slow down thought process to increase comprehension of the thought/claim/idea
   * Inspect and dissect thoughts like a connoisseur tastes wine or looks at art
-  * The mind's optimal speed is slow and steady (Socrate's is never in a rush)
+  * The mind's optimal speed is slow and steady (Socrates is never in a rush)
 
 #### Side Effects
   * More intelligent understanding
@@ -143,7 +143,7 @@ The elenchus is a trap we cannot set upon ourselves.  Socrates thinks in advance
 >
 [-Gorgias 526de](https://en.wikipedia.org/wiki/Gorgias)
 
-Internal consistency was paramount to Socrates to live in accordance with nature.  The elenchus allows us to internally debate our own thoughts against each other to acquire internal consistency in the pursuit of truth.
+Internal consistency was paramount for Socrates to live in accordance with nature.  The elenchus allows us to internally debate our own thoughts against each other to acquire internal consistency in the pursuit of truth.
 
 > Socrates is a master of refutation, so it becomes hard to be certain about anything important.  Conclusions that stand unrefuted are provisional; they may *yet* be refuted.  Socrates has a rare combination of beliefs: confidence that truth exists, but humility about whether he knows it.  (Think of how strangely common the reverse has become.)  That is part of why inconsistency matters so much.  It doesn't just show that you are wrong.  It shows that it's possible to *be* wrong.  Philosophy means thinking carefully about whether you believe all that you say and whether it's true.  It is the effort to stay awake.
 >
@@ -165,6 +165,30 @@ The Socratic method uses 2 methods of thought: systole and diastole.
   * platonic division: seeing one as many via categorical "buckets" of differences
 
 ## 9. Analogies
+
+Socrates uses analogies for clarification and refinement of ideas.
+
+1. Fill-in-the-blank
+  * Socrates provides a definition of something and asks others in dialog to provide a similar definition for something else
+  * Socrates uses these analogies as an example of how to "do it like this"
+2. Fill-in-the-blank interrogations
+  * Socrates uses this style of questioning as a thought path which starts with simple, familiar things and is guided towards difficult, unfamiliar things, ie. beginning with what is known and attempting to map that information onto what is unknown
+  * When someone is having difficulty formulating a sufficient response, show them a proper response in a more familiar universe of discourse which is simple to understand
+3. Extended comparisons
+  * Socrates compares food for the body and the information we commit to our minds as corresponding food for the mind
+4. Argumentative analogies
+  * Good tasting food may be bad for your health, while bad tasting medicine may be good for your health
+
+#### Why Analogies?
+
+* To think hard in unfamiliar ways
+* Associate abstract ideas with tangible things
+  * Taking care of our minds similarly to our bodies
+
+#### What is epagogic reasoning?
+
+Inductive reasoning, ie. using anecdotal evidence derived from specific examples to lead a thought process towards a general conclusion.  The epagoge and analogy work back and forth between the known and unknown as leverage to continually generate and build upon previous ideas.
+
 ## 10. Socratic Rules for Dialogue
 ## 11. Ignorance
 ## 12. Aporia
