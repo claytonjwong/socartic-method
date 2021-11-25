@@ -190,6 +190,25 @@ Socrates uses analogies for clarification and refinement of ideas.
 Inductive reasoning, ie. using anecdotal evidence derived from specific examples to lead a thought process towards a general conclusion.  The epagoge and analogy work back and forth between the known and unknown as leverage to continually generate and build upon previous ideas.
 
 ## 10. Socratic Rules for Dialogue
+
+> There is nothing worse than self-deception - when the deceiver is always at home and always with you.
+>
+[Cratulus 428d](https://en.wikipedia.org/wiki/Cratylus)
+
+1. Trying to find truth (dialectic), rather than trying to win a debate (eristic)
+2. Examining people, not just claims
+3. Judging arguments by merit, regardless who makes them
+4. Candor, saying what we think
+5. One-witness principle, the partner in dialogue is the judge
+  * the crowd is *not* to be trusted
+  * personal dialogue
+  * insufficient data points: "everybody knows..." or "nobody thinks..."
+6. Principle of charity
+  * dialogue partners help each provide clarity towards truth
+  * consider the best case for your adversarial partner, not the best case for your self-confirming point of view
+  * come up with strong objections to our own views
+7. Not giving or taking offense
+
 ## 11. Ignorance
 ## 12. Aporia
 ## 13. Socratic Goods
