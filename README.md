@@ -210,6 +210,21 @@ Inductive reasoning, ie. using anecdotal evidence derived from specific examples
 7. Not giving or taking offense
 
 ## 11. Ignorance
+
+> I am better off than he is, for he knows nothing, and thinks that he knows; I neither know nor think that I know.
+>
+[-Apology 21bd](https://en.wikipedia.org/wiki/Apology_(Plato))
+
+Socratic philosophy begins and ends by admitting our ignorance, ie. "I don't know."   Between the begin and end, we have a dialogue which slowly and iteratively builds upon our ignorance in an effort towards truth.  Socrates shows us how difficult truth is to reach by showing "experts" they aren't actually experts by asking questions which are hard to sufficiently answer.  Thus awareness of our ignorance if a prerequisite to allow socratic inquiry to begin.
+
+The [einstellung effect](https://en.wikipedia.org/wiki/Einstellung_effect) occurs when we think we know something, but we actually don't fully comprehend it.  This ignorance occurs often when learning something new.  A common example in computer science is [dynamic programming](https://leetcode.com/discuss/general-discussion/712010/The-ART-of-Dynamic-Programming-An-Intuitive-Approach%3A-from-Apprentice-to-Master) for which solutions are easily verified in **hindsight** but those same solutions are difficult to conjure in **foresight**.  Many software developers will internally believe they understand dynamic programming because they can validate preexisting solutions in hindsight, but that is likely a false belief which is easily contradicted by attempting to solve similar but different problems from scratch (ie. without looking at someone else's solution).
+
+> People have vices, do wrong, and make themselves wretched because they don't really understand what they are doing and why.  They haven't thought hard enough about it.  But there's a special tier of Socratic dread and contempt for *double* ignorance -- the ignorance of those who don't know but think they do.
+>
+[-Ward Farnsworth](https://en.wikipedia.org/wiki/Ward_Farnsworth)
+
+Socrates claims to know nothing, but he does have previously known information.  However, he does *not* allow his knowledge to keep him from continually searching for truth, even if that truth contradicts his previously known information.  Socrates continually keeps in mind his own ignorance.  When in dialogue, he attempts to forget what he already thinks he knows to truly listen from another perspective.
+
 ## 12. Aporia
 ## 13. Socratic Goods
 ## 14. Socratic Ethics
