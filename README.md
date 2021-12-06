@@ -226,6 +226,27 @@ The [einstellung effect](https://en.wikipedia.org/wiki/Einstellung_effect) occur
 Socrates claims to know nothing, but he does have previously known information.  However, he does *not* allow his knowledge to keep him from continually searching for truth, even if that truth contradicts his previously known information.  Socrates continually keeps in mind his own ignorance.  When in dialogue, he attempts to forget what he already thinks he knows to truly listen from another perspective.
 
 ## 12. Aporia
+
+> There's one proposition that I'd defend to the death, if I could, by argument and by action: that as long as we think we should search for what we don't know, we'll be better people -- less faint-hearted and less lazy -- than if we were to think that we had no chance of discovering what we don't know and that there's no point in even searching for it.
+>
+[-Meno 86bc](https://en.wikipedia.org/wiki/Meno)
+
+Aporia is an irresolvable internal contradiction or logical disjunction in a text, argument, or theory.  Many Socratic dialogues end in aporia; it is a state of mind which is acquired upon sufficient refutation and refinement cycles, ie. there is nothing left to say or do.
+
+#### Double Ignorance
+* When we think we know something, but we actually don't know something
+* Aporia is a rude awakening from this mindless "sleep walking"
+
+#### Purgative Prerequisite
+* Before we can learn truth, we must unlearn preconceived falsehoods
+* Aporetic cleansing prepares us for learning by making us want to learn
+  * We are hungry for knowledge when we realize how little we have
+  * Investigations for knowledge do *not* commence if we already "know it all"
+
+#### Speechlessness
+* Unspeakable truths (verbose discourse similar to mathematical irrational numbers)
+* Some truths are perceived without words and/or are ineffable
+
 ## 13. Socratic Goods
 ## 14. Socratic Ethics
 ## 15. Socrates and the Stoics
