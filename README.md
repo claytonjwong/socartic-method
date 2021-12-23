@@ -248,6 +248,49 @@ Aporia is an irresolvable internal contradiction or logical disjunction in a tex
 * Some truths are perceived without words and/or are ineffable
 
 ## 13. Socratic Goods
+
+> Herein is the evil of ignorance, that he who is neither good nor wise is nevertheless satisfied with himself: he has no desire for that of which he feels no want.
+>
+[-Symposium 204a](https://en.wikipedia.org/wiki/Symposium_(Plato))
+
+#### Question: Why Bother?
+
+Socrates cared deeply for seeking truth and taking care of his mind.  We naturally acquire an anti-Socrates via automatic, mindless tendencies such as [confirmation bias](https://en.wikipedia.org/wiki/Confirmation_bias).
+
+> Idiocy tend not to fully recognize its own existence; inompetence prevents you from being aware of your own incompetence.
+>
+[-Dunning and Kruger, "Unskilled and Unaware of It"](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect)
+
+* If we've never had something, how could we possibly miss it (or even know that we might want it)?  
+  * Ignotti nulla cupido (there is no desire of the unknown)
+
+> What a delusion most needs is the very thing it least thinks of -- naturally, for otherwise it would *not* be a delusion.
+>
+[-Kierkegaard](https://en.wikipedia.org/wiki/The_Sickness_unto_Death)
+
+* [Allegory of the cave](https://en.wikipedia.org/wiki/Allegory_of_the_cave)
+  * [Departure from the cave](https://en.wikipedia.org/wiki/Allegory_of_the_cave#Departure_from_the_cave)
+    * *not* valued by those who do *not* have it
+      * they *cannot* comprehend the value of what they are missing
+      * the absence of good keeps them from seeing why they would like it
+    * valued by those who *do* have it
+      * know such goods exist
+      * know such goods are worth the effort to acquire
+
+#### Comparisons
+
+People rarely feel they are in caves since they don't notice until they get out and look back.  We can value the work we've put into ourselves only after that work as been done.  Then we can look back on our past selves, and remember who we don't want to be.  This concept can be used as a constant reminder that there's plenty more work to be done.
+
+#### Socratic Injuries
+
+You don't know what you're suffering.
+  * never learn the truth
+  * act unethically without reflection
+  * live a life that would disgust us if we were less ignorant
+
+The more we need this help, the less we want it.
+
+
 ## 14. Socratic Ethics
 ## 15. Socrates and the Stoics
 ## 16. Socrates and the Skeptics
