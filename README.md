@@ -283,7 +283,7 @@ People rarely feel they are in caves since they don't notice until they get out 
 
 #### Socratic Injuries
 
-You don't know what you're suffering.
+You don't know what you're suffering.  Analogous to [anosognosia](https://en.wikipedia.org/wiki/Anosognosia) within the mind.
   * never learn the truth
   * act unethically without reflection
   * live a life that would disgust us if we were less ignorant
