@@ -290,8 +290,20 @@ You don't know what you're suffering.  Analogous to [anosognosia](https://en.wik
 
 The more we need this help, the less we want it.
 
-
 ## 14. Socratic Ethics
+
+> The most vicious wrongdoers have stories to tell themselves in which what they do seems right, all in all.  They're in the grip of mistakes and bad understandings.
+>
+[-Ward Farnsworth](https://en.wikipedia.org/wiki/Ward_Farnsworth)
+
+* Every soul is deprived of truth against its will:
+  * Forgive them, for they wouldn't have done it having known better
+* Good socratic exercise:
+  * re-interpret every wrongful act in the same way: a failure of knowledge/understanding
+
+When people want opinions about how to build something, they consult expert engineers; however, when people want opinions about moral matters (how to live life well), they view their own options or other's unqualified opinions as "expert" advice, rather than acquire information from those with proper credentials (philosophers).
+
+
 ## 15. Socrates and the Stoics
 ## 16. Socrates and the Skeptics
 ## 17. Finding Principles
