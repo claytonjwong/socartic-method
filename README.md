@@ -319,6 +319,33 @@ Our problems in this world can be reinterpreted as problems within our thought p
 * Dumb animals lack the emotions of man due to lack of knowledge/understanding
 
 ## 16. Socrates and the Skeptics
+
+> [Socrates] argues in such a manner that he affirms nothing himself, but refutes the assertions of others.  He says that he knows nothing, except that one fact, that he is ignorant; and that he is superior to others in this particular, that they believe that they do know what they do not, while he knows this one thing alone, that he knows nothing.  And it is on that account that he imagines he was pronounced by Apollo the wisest of all men, because this alone is the whole of wisdom, for a man not to think that he knows what he does not know.
+>
+[-Cicero, *Academica* 1.4.16](https://en.wikipedia.org/wiki/Academica_(Cicero))
+
+"Skeptic" is derived from the greek work *skepsis* which means "inquiry"
+  * Skeptics want truth and always try to get closer to it
+  * Skeptics never reach a stopping point (never find certainty)
+  * Skeptics dread "rash assent" (thinking you're done thinking before you actually are)
+    * a great failing point for humanity
+
+#### Aporia vs. Epochē
+
+**Aporia**
+  * all claims have been refuted and there's nothing more to say/do
+  * leads to a state of epistemic frustration
+
+**Epochē**
+  * withholding judgement because we are suspended between different arguments
+    * (either of which could be right)
+  * leads to a state of detachment from belief
+
+#### Stoics vs. Skeptics
+
+* **Stoics:** virtue is the only real good and is a matter of knowledge
+* **Skeptics:** we have no certain knowledge and the best response to a claim is always more argument
+
 ## 17. Finding Principles
 ## 18. Testing Principles
 ## Epilogue: Socratic Rules of Engagement
