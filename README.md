@@ -257,7 +257,7 @@ Aporia is an irresolvable internal contradiction or logical disjunction in a tex
 
 Socrates cared deeply for seeking truth and taking care of his mind.  We naturally acquire an anti-Socrates via automatic, mindless tendencies such as [confirmation bias](https://en.wikipedia.org/wiki/Confirmation_bias).
 
-> Idiocy tend not to fully recognize its own existence; inompetence prevents you from being aware of your own incompetence.
+> Idiocy tend not to fully recognize its own existence; incompetence prevents you from being aware of your own incompetence.
 >
 [-Dunning and Kruger, "Unskilled and Unaware of It"](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect)
 
