@@ -301,10 +301,23 @@ The more we need this help, the less we want it.
 * Good socratic exercise:
   * re-interpret every wrongful act in the same way: a failure of knowledge/understanding
 
-When people want opinions about how to build something, they consult expert engineers; however, when people want opinions about moral matters (how to live life well), they view their own options or other's unqualified opinions as "expert" advice, rather than acquire information from those with proper credentials (philosophers).
-
+When people want opinions about how to build something, they consult expert engineers; however, when people want opinions about moral matters (how to live life well), they view their own opinions or other's unqualified opinions as "expert" advice, rather than acquire information from those with proper credentials (philosophers).
 
 ## 15. Socrates and the Stoics
+
+> Begin the morning by saying to yourself: today I will meet with the busybody, the ungrateful, and the arrogant; with the deceitful, the envious, and the unsocial.  All these things result from their not knowing what is good and what is evil.
+>
+[-Marcus Aureliuus, Meditations 2.I](https://en.wikipedia.org/wiki/Meditations)
+
+Our problems in this world can be reinterpreted as problems within our thought processes.  When people are annoying or wrongdoers: we can forgive them, for they are deprived of truth and don't know better.  People who behave poorly can be pitied; they are mistaken or ethically disabled.  Remembering this makes us kinder.
+
+> Whenever someone does you a wrong or speaks ill of you, remember that he is doing what he thinks is proper.  He can't possibly be guided by what appears right to you, but only by what appears right to him.  So if he sees things wrongly, he is the one who is hurt, because he is the one who has been deceived... Starting from this reasoning, you will be mild toward whoever insults you.  Say each time, "So it seemed to him."
+>
+[-Epictetus, Enchiridon 42](https://en.wikipedia.org/wiki/Enchiridion_of_Epictetus)
+
+* The stoics view emotion as internal responses/reactions to external stimulus
+* Dumb animals lack the emotions of man due to lack of knowledge/understanding
+
 ## 16. Socrates and the Skeptics
 ## 17. Finding Principles
 ## 18. Testing Principles
