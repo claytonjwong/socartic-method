@@ -347,5 +347,19 @@ Our problems in this world can be reinterpreted as problems within our thought p
 * **Skeptics:** we have no certain knowledge and the best response to a claim is always more argument
 
 ## 17. Finding Principles
+
+Socratic dialogue begins with a search for the proper level of generality which establishes the overall universe of discourse for the discussion.  Principles are core beliefs unconsciously held at the root of ours thoughts.  We can use principles:
+
+1. as the second half of the elenchus to test the original claim(s) the principle was derived from; thus seeking inconsistencies between the principle and claim
+2. as the first half of the elenchus to test the principle itself as a claim for further refutation
+3. as generalizations of other principles; this is helpful to establish "common ground" early in the dialogue since most people do care about the same things when generalized at a sufficiently high-level
+
+#### Concepts
+
+A major premise will take 1 of 2 forms:
+
+1. a concept that needs to be defined
+2. a proposition that needs to be defended (ie. test its implications)
+
 ## 18. Testing Principles
 ## Epilogue: Socratic Rules of Engagement
