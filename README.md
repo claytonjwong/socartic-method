@@ -348,7 +348,7 @@ Our problems in this world can be reinterpreted as problems within our thought p
 
 ## 17. Finding Principles
 
-Socratic dialogue begins with a search for the proper level of generality which establishes the overall universe of discourse for the discussion.  Principles are core beliefs unconsciously held at the root of ours thoughts.  We can use principles:
+Specific questions can be used to identify the root principle of a claim/argument.  Socratic dialogue begins with a search for the proper level of generality which establishes the overall universe of discourse for the discussion.  Principles are core beliefs unconsciously held at the root of ours thoughts.  We can use principles:
 
 1. as the second half of the elenchus to test the original claim(s) the principle was derived from; thus seeking inconsistencies between the principle and claim
 2. as the first half of the elenchus to test the principle itself as a claim for further refutation
@@ -362,4 +362,22 @@ A major premise will take 1 of 2 forms:
 2. a proposition that needs to be defended (ie. test its implications)
 
 ## 18. Testing Principles
+
+Specific questions can be used to test principles of a claim/argument in a non-confrontational way by devising questions which produce agreement; then further questions can be used to find contradictions and inconsistencies with previous agreements to continue the refutation/refinement cycle.
+
+There are multiple methods for coming up with good questions:
+
+1. **Literalism:** think outside the box to test the principle outside the boundaries of its original intelligent
+2. **Extremes:** corner cases and outer limits of the principle's breadth
+3. **Change the politics:** seeing the same information from a reversed point-of-view
+4. **Change the perspective:** seeing the same information from another's perspective
+5. **Implications:** if this is true, then what follows?
+6. **Next step:** consider future consequences
+
+#### Can We Begin a Dialogue?
+With good questions, we can discover what others are willing to accept as evidence they're wrong, and see what (if anything) may be able to change their minds.
+
+#### Cooperative vs. Adversarial Reasoning
+Instead of saying: "here's a counter-example to your claim X", we can state: "there are specific features of the claim X, right?" (to receive agreement), followed by: "then is it possible that X is an exception to a previous claim/argument?"
+
 ## Epilogue: Socratic Rules of Engagement
