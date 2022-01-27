@@ -381,3 +381,16 @@ With good questions, we can discover what others are willing to accept as eviden
 Instead of saying: "here's a counter-example to your claim X", we can state: "there are specific features of the claim X, right?" (to receive agreement), followed by: "then is it possible that X is an exception to a previous claim/argument?"
 
 ## Epilogue: Socratic Rules of Engagement
+
+1. The open table
+2. The purpose of inquiry
+3. Challenges wanted
+4. Arguments met with arguments
+5. The priority of reason
+6. Elenctic reasoning
+7. Self-skepticism
+8. Group skepticism
+9. Manners
+10. Candor
+11. Offense
+12. Humility
